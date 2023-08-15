@@ -25,4 +25,5 @@ If you're new to Python or this repository, here's how you can get started:
    
    ```sh
    git clone https://github.com/qcversity/SmartPython.git
-  ```
+   ```
+
